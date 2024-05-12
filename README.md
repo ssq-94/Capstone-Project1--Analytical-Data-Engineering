@@ -14,18 +14,18 @@ TPCDS (Retail Sales) is a well-known dataset for database testing. It contains s
 
 
 # 3. Project Requirements
-* Database Setup
+*1. Database Setup
 - Set up a Snowflake database.
 - Create the TPCDS database.
 - Create a RAW schema.
 - Create the inventory table.
   
-* EC2 Instances
+*2. EC2 Instances
 - Set up two EC2 instances.
 - Use a t2.large instance for Airbyte.
 - Use a t2.small instance for Metabase.
 
-* Docker Installation
+*3. Docker Installation
 - Install Docker on both created instances.
 
 
