@@ -1,7 +1,7 @@
 # Capstone-Project1--Analytical-Data-Engineering
 The project aims to perform Analytical Data Engineering by ingesting data from various sources, loading it into the Snowflake data warehouse, and preparing it for Business Intelligence (BI) usage with the help of the Metabase tool.
 
-** 1. Project Overview
+* 1. Project Overview
 The project is divided into three main parts: data ingestion, data transformation, and data analysis/dashboard.
 
 ![image](https://github.com/ssq-94/Capstone-Project1--Analytical-Data-Engineering/assets/78969075/c5ac009b-be42-4657-b76a-8221ad2b1707)
